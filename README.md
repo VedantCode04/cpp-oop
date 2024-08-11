@@ -34,9 +34,11 @@ This repository contains code of OOPs concepts in C++ language.
 ### Diamond Problem
 - [13-diamond-problem.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/13-diamond-problem.cpp)
 
-## 3. Function Operations
+## 3. Polymorphism
 ### Function Overloading
 - [14-function-overloading.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/14-function-overloading.cpp)
+### Operator Overloading
+- [16-operator-overloading.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/16-operator-overloading.cpp)
 
 ### Function Overriding
 - [18.1-function-overriding.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/18.1-function-overriding.cpp)
@@ -44,16 +46,7 @@ This repository contains code of OOPs concepts in C++ language.
 
 ### Function Hiding
 - [17-function-hiding.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/17-function-hiding.cpp)
-
-## 4. Advanced Topics
 ### Abstract Classes
 - [19-abstract-class.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/19-abstract-class.cpp)
-
-### Operator Overloading
-- [16-operator-overloading.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/16-operator-overloading.cpp)
-
-## 5. Constructors and Destructors
-- [2-constructor.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/2-constructor.cpp)
-- [3-destructor.cpp](https://github.com/VedantCode04/cpp-oops/blob/main/3-destructor.cpp)
 
 
