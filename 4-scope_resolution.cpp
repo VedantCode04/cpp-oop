@@ -39,6 +39,8 @@ void Employee::setEmployee(int i , string s)
     getEmployee();
 }
 
+int a = 10;
+
 int main()
 {
     Student s;
@@ -47,4 +49,10 @@ int main()
     cout << endl;
     Employee e;
     e.setEmployee(200, "pujan");
+    cout << "global: " << a << endl;
+    {
+        int a = 30;
+        cout << "block: " << a << endl;
+        cout << "global: " << ::a << endl;
+    }
 }
